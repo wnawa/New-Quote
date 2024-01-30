@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css?family=Raleway:400,500");
+
+@font-face {
+  font-family:"Raleway" ;
+  src: url("https://fonts.googleapis.com/css?family=Raleway:400,500");
+}
+#container {
+  color: blue;
+  font-family: "Liberation Sans";
+}
+
+#quote-box {
+  text-align: center;
+}
+#text {
+  font-size: 17px;
+  font-family: "Liberation Sans";
+}
+#author {
+  font-size: 12px;
+}
